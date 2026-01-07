@@ -16,6 +16,8 @@
 
 [RunCat——状态栏奔腾小猫，速度挂钩CPU(首先我真的很想要一个彩虹猫版本，其次派对鹦鹉版本sikisiki)](https://github.com/Kyome22/RunCat_for_windows)
 
+[漂亮的用于展示markdown 的 github page主题————老牌法兰西贵族风这一块](https://github.com/pages-themes/merlot)
+
 # 文章推荐
 
 [《逃离完美偶像的日子》————采访谭杉杉，从虚拟反射回现实，为闹剧填上一笔注解](http://zqb.cyol.com/html/2023-11/01/nw.D110000zgqnb_20231101_1-06.htm)
