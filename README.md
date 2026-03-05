@@ -18,11 +18,17 @@
 
 [漂亮的用于展示markdown 的 github page主题————老牌法兰西贵族风这一块](https://github.com/pages-themes/merlot)
 
+[原教旨主义RPC的天启骑士————分布部署，单体理解，单体开发体验。将远程接口请求视为本地异步操作，让微服务的一切副作用在运行时自行消弭](https://github.com/restatedev/restate)
+
 # 文章推荐
 
 [《逃离完美偶像的日子》————采访谭杉杉，从虚拟反射回现实，为闹剧填上一笔注解](http://zqb.cyol.com/html/2023-11/01/nw.D110000zgqnb_20231101_1-06.htm)
 
 [如何编写不可维护的代码————至纯神金，没有祸祸同事二十年经历写不出如此抽象的作品](https://github.com/Droogans/unmaintainable-code)
+
+[如何掌握DDD聚合设计 - SSENSE————解析从业务不变量出发的设计方式](https://zhuanlan.zhihu.com/p/563328697)
+
+[软件开发中最难的是什么？- Denilson N.————为什么命名如此重要，以及重构本质上是建构的揭示](https://zhuanlan.zhihu.com/p/595859228)
 
 # 论文推荐
 
@@ -45,3 +51,5 @@
 [【游鲨】游戏行业资料共享文档](https://365.kdocs.cn/l/ct4bcS9xHD3K?R=L1MvOTQ=)
 
 [卢浮宫生成器————将 赛璐珞风格 动画截图 或 插画，转换成 One Last Kiss 封面风格](https://lab.magiconch.com/one-last-image/)
+
+[架构空手道————练习时长两年半，架构师自己的leetcode](https://www.architecturalkatas.com/index.html)
