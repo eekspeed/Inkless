@@ -51,5 +51,3 @@
 [【游鲨】游戏行业资料共享文档](https://365.kdocs.cn/l/ct4bcS9xHD3K?R=L1MvOTQ=)
 
 [卢浮宫生成器————将 赛璐珞风格 动画截图 或 插画，转换成 One Last Kiss 封面风格](https://lab.magiconch.com/one-last-image/)
-
-[架构空手道————练习时长两年半，架构师自己的leetcode](https://www.architecturalkatas.com/index.html)
